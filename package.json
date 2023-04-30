@@ -1,0 +1,15 @@
+{
+  "name": "aphrodite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start.generator": "cd dashboard && yarn start && cd ..",
+    "start.cli": "echo -e \"ERROR\""
+  },
+  "repository": "https://github.com/UsboKirishima/aphrodite",
+  "author": "UsboKirishima <usbertibox@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "yarn": "^1.22.19"
+  }
+}
